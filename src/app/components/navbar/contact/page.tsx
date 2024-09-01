@@ -15,7 +15,7 @@ const Contact = () => {
                 <div className="flex items-center mt-[20px] ">
                     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504911.png" className="w-[35px]" />
                     <p className="ml-2">Github</p>
-                </div>cls
+                </div>
             </a>
             <a href="mailto:maliaraeeskhan@gmail.com">
                 <div className="flex items-center mt-[20px] ">
